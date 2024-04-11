@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "wiringserial.h": "c",
+        "wiringpi.h": "c",
+        "termios.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "time.h": "c",
+        "unistd.h": "c",
+        "3swinterrupt.h": "c",
+        "stdlib.h": "c",
+        "pwm.h": "c",
+        "rpihw.h": "c",
+        "protocol.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/ljk/rpi/Ambient/33/rpi_ws281x"
+}
